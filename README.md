@@ -4,4 +4,5 @@ Make root file system directory write read
       training and testing purposes only
       (USE AT YOUR OWN RISK)
       LINK IS GOOD
-      (<link-linkerLinkedWindows10ISO-directLink\>)
+      (<link-linkerLinkedWindows10-ISO-directLink\>)
+      "https://tb.rg-adguard.net/dl.php?go=cf6b84d9"
